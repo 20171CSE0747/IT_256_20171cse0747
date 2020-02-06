@@ -1,0 +1,63 @@
+<html>
+	<head>
+	<title>Internal links</title>
+	</head>
+	<body style="background-color:powderblue">
+	<marquee direction="right" behaviour="alternate" a>This is an Activity</marquee>
+	<a href="#table">Down</a>
+	<p id="firstpara" style="color:red;">Yash started his acting career with the teleserial Nanda Gokula directed by Ashok Kashyap, which aired on ETV Kannada. He went on to appear in several other teleserials such as Malebillu and Preeti Illada Mele.[10] He had a small role in a 2007 film directed by Priya Hassan, Jambhada Hudugi. He then acted in Moggina Manasu directed by Shashank in 2008, where he appeared in a supporting role alongside his Nanda Gokula co-star Radhika Pandit. He won the Filmfare Award for Best Supporting Actor for his performance in the film.[11] Yash then starred in lead characters in the films Rocky (2008), Kallara Santhe (2009), Gokula (2009).</p>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<p id="secondpara" style="clor:green;">In 2010, Yash starred in Modalasala which became his first commercial solo hit. His next film was Rajadhani in 2011, which got good reviews[12] and his performance was critically acclaimed[13] although the film's return was below average at the box office. The same year, his next film Kirataka was a commercial success. Yash received positive reviews[14] for his performance in the village comedy film.[15][16] In 2012 Yash had two major releases, Lucky (opposite Ramya) and Jaanu, both of which met with mixed response[17] upon release and became average grossers at the box office.[18][19][20] His next film of the same year, the romantic comedy Drama directed by Yograj Bhat was a commercial success. The film was one of the major grossers of 2012.[21]
+	2013–2016: Success and stardom</p>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<p id="thirdpara" style="color:blue;">In his first release of 2013, Googly, a romance-drama, apart from a special appearance in a song sequence in Chandra[22] who falls for Swati (played by Kriti Kharbanda). Directed by Pavan Wadeeyar, the film performed well, and was one among the highest-grossing Kannada films of the year.[23] In 2014, he starred in Gajakesari, which was directed by Krisha, and became commercially successful at the box office.[24]</p>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<p id="fourthpara" style="color:yellow;">Yash's next film Mr. and Mrs. Ramachari opposite Radhika Pandit had its theatrical release on 25 December 2014, and opened to positive reviews and collected an estimated ?50[25] crore and went on to become one of the highest grossing Kannada cinema, and which made him one of the highest-paid actors in Sandalwood.[26][27][28] In 2015, he acted in Masterpiece, which opened to mixed reviews by the critics and emerged as a commercial hit at the box office.[29] In 2016, he starred in Santhu Straight Forward which performed fairly well at the box-office by collecting ?30 crore.[30]
+	2018–present</p>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<table id="table" border="2">
+	<tr>
+	<th>year</th>
+	<th>movie</th>
+	<th>role</th>
+	</tr>
+	<tr>
+	 <td>2008</td>
+	 <td>Moggina Manasu</td>
+	 <td>Rahul</td>
+	</tr>
+	<tr>
+	 <td>2013</td>
+	 <td>Googly</td>
+	 <td>Sharath</td>
+	</tr>
+	</table>
+	
+
+	<a href="#firstpara">top</a>
+
+ 	
+	<a href="https://en.wikipedia.org/wiki/Yash_(actor)"target="_blank"</a>
+
+	<img src="C:/Users/varsh/Desktop/New folder/New folder/img.png" height="200",width="200" align="center" >
+	
+	
+	</body>
+	</html>
+
