@@ -1,0 +1,69 @@
+<html>
+ <head>
+  <title>IT Assignment Cse256</title>
+ 
+  <style type="text/css">
+  	body {
+	font-family: verdana;
+	font-size: 24pt;
+}
+
+#one {
+	position: absolute;
+	top: 200px;
+	left: 300px;
+
+	background-color: black;
+	color: white;
+}
+
+#two {
+	position: absolute;
+	top: 220px;
+	left: 320px;
+
+	background-color: blue;
+	color: yellow;
+}
+
+#three {
+	position: absolute;
+	top: 240px;
+	left: 340px;
+
+	background-color: cyan;
+	color:white ;
+}
+  </style>
+  <script type="text/javascript">
+  	  var topLayer = "three";
+
+function moveIt(toTop) {
+
+    var oldTop   =   document.getElementById(topLayer).style;
+    var newTop =   document.getElementById(toTop).style;
+
+    oldTop.zIndex   = "0";
+    newTop.zIndex = "10";
+
+    topLayer = document.getElementById(toTop).id;
+
+}
+  </script>
+ </head>
+ <body>
+
+	<div id="one" onmouseover="moveIt('one')">
+		A paragraph is a series of related sentences developing a central idea, called the topic. 
+	</div>
+
+	<div id="two" onmouseover="moveIt('two')">
+	In Harry’s world fate works not only through powers and objects such as prophecies, the Sorting Hat, wands, and the Goblet of Fire
+	</div>
+
+	<div id="three" onmouseover="moveIt('three')">
+	The process paragraph involves a straightforward step-by-step description. Process description often follows a chronological sequence.
+	</div>
+
+ </body>
+</html>
